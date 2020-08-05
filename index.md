@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-8311 Holdings is a private investment company backed by the Family Office of Nick Bell.
+## 8311 Holdings is a private investment company backed by the Family Office of Nick Bell.
 
 Bell built his career at the intersection of media & technology, selling his first company, Teenfront.com at the age of 16. Bell went on to lead product digital and product strategy at News corporation and then formed Snap Inc’s content business.
 
